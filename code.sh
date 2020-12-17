@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Agus suka makan"
+echo "Agus suka makan tahu kupat"
